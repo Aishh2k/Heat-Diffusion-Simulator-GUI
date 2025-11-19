@@ -37,6 +37,8 @@ A real-time heat diffusion simulation with material region editing capabilities.
 │   └── App.tsx                     # Main application component
 └── README.md
 ```
+## Demo
+[demo-GUI.webm](https://github.com/user-attachments/assets/b22bb253-3378-4fb7-8e86-81efdb765f33)
 
 
 ## Acknowledgments
